@@ -68,5 +68,5 @@ User satisfaction is obtained by distributing questionnaires to 50 system expert
 ## CONCLUSION
 The application that has been developed can reduce the time spent searching books from the library. Providing users with an overview of library and navigation areas within the library, AR technology can display the user's location and direction of movement when the user navigated.
 
-## ONGOING PROJECT
+## UPCOMING PROJECT
 Create indoor navigation for university buildings to make it easier for new students to look for classes / laboratories.
