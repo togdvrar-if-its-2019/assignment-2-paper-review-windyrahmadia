@@ -43,6 +43,7 @@
 The population of this research are 530 individuals, there are 325 students and 205 teachers. The research question focus on students group and the teachers group just be a control group for question problem 3. The population came from 8 different schools in Madrid. The age of sample ranged from 11 to 16 years old.
 
 2.	Educational Intervention and Research Design
+
 ![Paper](images/img_2.png)
 
 3.	Measures and Instruments
