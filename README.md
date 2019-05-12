@@ -1,5 +1,5 @@
 # PAPER REVIEW
-![Paper](images/1.png)
+![Paper](images/img_1.png)
 
 <b>Title</b> : Investigating the Impact of Gaming Habits, Gender and Age on the Effectiveness of an Educational Video Game: An Exploratory Study
 
@@ -43,7 +43,7 @@
 The population of this research are 530 individuals, there are 325 students and 205 teachers. The research question focus on students group and the teachers group just be a control group for question problem 3. The population came from 8 different schools in Madrid. The age of sample ranged from 11 to 16 years old.
 
 2.	Educational Intervention and Research Design
-![Paper](images/2.png)
+![Paper](images/img_2.png)
 
 3.	Measures and Instruments
     * Measuring of Interest towards Theater. The students interest toward theater (dependent variable) was measured using a self-developed scale composed of three 7-point Likert items:
